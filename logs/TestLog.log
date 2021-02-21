@@ -1,0 +1,1136 @@
+INFO main logg --- City: Nagpur
+INFO main logg --- Weather Condition is Clear
+INFO main logg --- Humidity: 65
+INFO main logg --- Wind:  2.67 
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Scenario name is Comparing Temperature from UI with Temprature received from Service with provided variance
+INFO main logg --- Launching Website...
+INFO main logg --- Temperature: 27°C
+INFO main logg --- City: Pune
+INFO main logg --- Weather Condition is Humid and Partly Cloudy
+INFO main logg --- Humidity: 78
+INFO main logg --- Wind:  1.98 
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Ending Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Closing Browser..
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Scenario name is Comparing Temperature from UI with Temprature received from Service with provided variance
+INFO main logg --- Launching Website...
+INFO main logg --- Temperature: 29°C
+INFO main logg --- City: Nagpur
+INFO main logg --- Weather Condition is Clear
+INFO main logg --- Humidity: 65
+INFO main logg --- Wind:  2.67 
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Ending Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Closing Browser..
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Scenario name is Comparing Temperature from UI with Temprature received from Service with provided variance
+INFO main logg --- Launching Website...
+INFO main logg --- Temperature: 29°C
+INFO main logg --- City: Raipur
+INFO main logg --- Weather Condition is Humid and Partly Cloudy
+INFO main logg --- Humidity: 73
+INFO main logg --- Wind:  2.75 
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Ending Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Closing Browser..
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Scenario name is Comparing City from UI with City received from Service
+INFO main logg --- Launching Website...
+INFO main logg --- Temperature: 27°C
+INFO main logg --- City: Pune
+INFO main logg --- Weather Condition is Humid and Partly Cloudy
+INFO main logg --- Humidity: 78
+INFO main logg --- Wind:  1.98 
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Ending Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Closing Browser..
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Scenario name is Comparing City from UI with City received from Service
+INFO main logg --- Launching Website...
+INFO main logg --- Temperature: 29°C
+INFO main logg --- City: Nagpur
+INFO main logg --- Weather Condition is Clear
+INFO main logg --- Humidity: 65
+INFO main logg --- Wind:  2.67 
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Ending Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Closing Browser..
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Scenario name is Comparing City from UI with City received from Service
+INFO main logg --- Launching Website...
+INFO main logg --- Temperature: 29°C
+INFO main logg --- City: Raipur
+INFO main logg --- Weather Condition is Humid and Partly Cloudy
+INFO main logg --- Humidity: 73
+INFO main logg --- Wind:  2.75 
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Ending Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Closing Browser..
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Scenario name is Comparing Humidity from UI with Humidity received from Service with provided variance
+INFO main logg --- Launching Website...
+INFO main logg --- Temperature: 27°C
+INFO main logg --- City: Pune
+INFO main logg --- Weather Condition is Humid and Partly Cloudy
+INFO main logg --- Humidity: 78
+INFO main logg --- Wind:  1.98 
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- Temperature variance between UI and Service more than 10  
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Ending Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Closing Browser..
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Scenario name is Comparing Humidity from UI with Humidity received from Service with provided variance
+INFO main logg --- Launching Website...
+INFO main logg --- Temperature: 29°C
+INFO main logg --- City: Nagpur
+INFO main logg --- Weather Condition is Clear
+INFO main logg --- Humidity: 65
+INFO main logg --- Wind:  2.67 
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Ending Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Closing Browser..
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Scenario name is Comparing Humidity from UI with Humidity received from Service with provided variance
+INFO main logg --- Launching Website...
+INFO main logg --- Temperature: 29°C
+INFO main logg --- City: Raipur
+INFO main logg --- Weather Condition is Humid and Partly Cloudy
+INFO main logg --- Humidity: 73
+INFO main logg --- Wind:  2.75 
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Ending Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Closing Browser..
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Scenario name is Comparing Weather condition from UI with Weather condition received from Service
+INFO main logg --- Launching Website...
+INFO main logg --- Temperature: 27°C
+INFO main logg --- City: Pune
+INFO main logg --- Weather Condition is Humid and Partly Cloudy
+INFO main logg --- Humidity: 78
+INFO main logg --- Wind:  1.98 
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- Weather condition is not matching Expected is [CLOUDS]  Actual is Humid and Partly Cloudy 
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Ending Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Closing Browser..
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Scenario name is Comparing Weather condition from UI with Weather condition received from Service
+INFO main logg --- Launching Website...
+INFO main logg --- Temperature: 30°C
+INFO main logg --- City: Ajmer
+INFO main logg --- Weather Condition is Clear
+INFO main logg --- Humidity: 53
+INFO main logg --- Wind:  5.29 
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Ending Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Closing Browser..
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Scenario name is Comparing Wind Speed from UI with Humidity received from Service with provided variance
+INFO main logg --- Launching Website...
+INFO main logg --- Temperature: 27°C
+INFO main logg --- City: Pune
+INFO main logg --- Weather Condition is Humid and Partly Cloudy
+INFO main logg --- Humidity: 78
+INFO main logg --- Wind:  1.98 
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Ending Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Closing Browser..
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Scenario name is Comparing Wind Speed from UI with Humidity received from Service with provided variance
+INFO main logg --- Launching Website...
+INFO main logg --- Temperature: 29°C
+INFO main logg --- City: Nagpur
+INFO main logg --- Weather Condition is Clear
+INFO main logg --- Humidity: 65
+INFO main logg --- Wind:  2.67 
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Ending Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Closing Browser..
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Scenario name is Comparing Wind Speed from UI with Humidity received from Service with provided variance
+INFO main logg --- Launching Website...
+INFO main logg --- Temperature: 29°C
+INFO main logg --- City: Raipur
+INFO main logg --- Weather Condition is Humid and Partly Cloudy
+INFO main logg --- Humidity: 73
+INFO main logg --- Wind:  2.75 
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Ending Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Closing Browser..
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- Calling NDTV web service to get weather data
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- Calling NDTV web service to get weather data
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- Calling NDTV web service to get weather data
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- Calling NDTV web service to get weather data
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- Calling NDTV web service to get weather data
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- Calling NDTV web service to get weather data
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- Calling NDTV web service to get weather data
+INFO main logg --- application/json; charset=utf-8
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- Calling NDTV web service to get weather data
+INFO main logg --- application/json; charset=utf-8
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- Calling NDTV web service to get weather data
+INFO main logg --- application/json; charset=utf-8
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- Calling NDTV web service to get weather data
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- Calling NDTV web service to get weather data
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- Calling NDTV web service to get weather data
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Scenario name is To check if weather data is present for the provided input city
+INFO main logg --- Launching Website...
+INFO main logg --- Temperature: 27°C
+INFO main logg --- City: Pune
+INFO main logg --- Weather Condition is Humid and Partly Cloudy
+INFO main logg --- Humidity: 78
+INFO main logg --- Wind:  1.98 
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Ending Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Closing Browser..
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Scenario name is Comparing Temperature from UI with Temprature received from Service with provided variance
+INFO main logg --- Launching Website...
+INFO main logg --- Temperature: 27°C
+INFO main logg --- City: Pune
+INFO main logg --- Weather Condition is Humid and Partly Cloudy
+INFO main logg --- Humidity: 78
+INFO main logg --- Wind:  1.98 
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Ending Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Closing Browser..
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Scenario name is Comparing Temperature from UI with Temprature received from Service with provided variance
+INFO main logg --- Launching Website...
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Scenario name is Comparing Temperature from UI with Temprature received from Service with provided variance
+INFO main logg --- Launching Website...
+INFO main logg --- Temperature: 29°C
+INFO main logg --- City: Pune
+INFO main logg --- Weather Condition is Humid
+INFO main logg --- Humidity: 69
+INFO main logg --- Wind:  2.42 
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Ending Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Closing Browser..
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Scenario name is Comparing Temperature from UI with Temprature received from Service with provided variance
+INFO main logg --- Launching Website...
+INFO main logg --- Temperature: 30°C
+INFO main logg --- City: Nagpur
+INFO main logg --- Weather Condition is Clear
+INFO main logg --- Humidity: 61
+INFO main logg --- Wind:  2.74 
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Ending Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Closing Browser..
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Scenario name is Comparing Temperature from UI with Temprature received from Service with provided variance
+INFO main logg --- Launching Website...
+INFO main logg --- Temperature: 30°C
+INFO main logg --- City: Raipur
+INFO main logg --- Weather Condition is Humid and Partly Cloudy
+INFO main logg --- Humidity: 69
+INFO main logg --- Wind:  2.94 
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Ending Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Closing Browser..
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Scenario name is Comparing City from UI with City received from Service
+INFO main logg --- Launching Website...
+INFO main logg --- Temperature: 29°C
+INFO main logg --- City: Pune
+INFO main logg --- Weather Condition is Humid
+INFO main logg --- Humidity: 69
+INFO main logg --- Wind:  2.42 
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Ending Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Closing Browser..
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Scenario name is Comparing City from UI with City received from Service
+INFO main logg --- Launching Website...
+INFO main logg --- Temperature: 30°C
+INFO main logg --- City: Nagpur
+INFO main logg --- Weather Condition is Clear
+INFO main logg --- Humidity: 61
+INFO main logg --- Wind:  2.74 
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Ending Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Closing Browser..
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Scenario name is Comparing City from UI with City received from Service
+INFO main logg --- Launching Website...
+INFO main logg --- Temperature: 30°C
+INFO main logg --- City: Raipur
+INFO main logg --- Weather Condition is Humid and Partly Cloudy
+INFO main logg --- Humidity: 69
+INFO main logg --- Wind:  2.94 
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Ending Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Closing Browser..
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Scenario name is Comparing Humidity from UI with Humidity received from Service with provided variance
+INFO main logg --- Launching Website...
+INFO main logg --- Temperature: 29°C
+INFO main logg --- City: Pune
+INFO main logg --- Weather Condition is Humid
+INFO main logg --- Humidity: 69
+INFO main logg --- Wind:  2.42 
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- Temperature variance between UI and Service more than 10  
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Ending Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Closing Browser..
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Scenario name is Comparing Humidity from UI with Humidity received from Service with provided variance
+INFO main logg --- Launching Website...
+INFO main logg --- Temperature: 30°C
+INFO main logg --- City: Nagpur
+INFO main logg --- Weather Condition is Clear
+INFO main logg --- Humidity: 61
+INFO main logg --- Wind:  2.74 
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Ending Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Closing Browser..
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Scenario name is Comparing Humidity from UI with Humidity received from Service with provided variance
+INFO main logg --- Launching Website...
+INFO main logg --- Temperature: 30°C
+INFO main logg --- City: Raipur
+INFO main logg --- Weather Condition is Humid and Partly Cloudy
+INFO main logg --- Humidity: 69
+INFO main logg --- Wind:  2.94 
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Ending Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Closing Browser..
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Scenario name is Comparing Weather condition from UI with Weather condition received from Service
+INFO main logg --- Launching Website...
+INFO main logg --- Temperature: 29°C
+INFO main logg --- City: Pune
+INFO main logg --- Weather Condition is Humid
+INFO main logg --- Humidity: 69
+INFO main logg --- Wind:  2.42 
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- Weather condition is not matching Expected is [CLOUDS]  Actual is Humid 
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Ending Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Closing Browser..
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Scenario name is Comparing Weather condition from UI with Weather condition received from Service
+INFO main logg --- Launching Website...
+INFO main logg --- Temperature: 32°C
+INFO main logg --- City: Ajmer
+INFO main logg --- Weather Condition is Clear
+INFO main logg --- Humidity: 46
+INFO main logg --- Wind:  5.35 
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Ending Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Closing Browser..
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Scenario name is Comparing Wind Speed from UI with Humidity received from Service with provided variance
+INFO main logg --- Launching Website...
+INFO main logg --- Temperature: 29°C
+INFO main logg --- City: Pune
+INFO main logg --- Weather Condition is Humid
+INFO main logg --- Humidity: 69
+INFO main logg --- Wind:  2.42 
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Ending Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Closing Browser..
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Scenario name is Comparing Wind Speed from UI with Humidity received from Service with provided variance
+INFO main logg --- Launching Website...
+INFO main logg --- Temperature: 30°C
+INFO main logg --- City: Nagpur
+INFO main logg --- Weather Condition is Clear
+INFO main logg --- Humidity: 61
+INFO main logg --- Wind:  2.74 
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Ending Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Closing Browser..
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Scenario name is Comparing Wind Speed from UI with Humidity received from Service with provided variance
+INFO main logg --- Launching Website...
+INFO main logg --- Temperature: 30°C
+INFO main logg --- City: Raipur
+INFO main logg --- Weather Condition is Humid and Partly Cloudy
+INFO main logg --- Humidity: 69
+INFO main logg --- Wind:  2.94 
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Ending Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Closing Browser..
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- Calling NDTV web service to get weather data
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- Calling NDTV web service to get weather data
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- Calling NDTV web service to get weather data
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- Calling NDTV web service to get weather data
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- Calling NDTV web service to get weather data
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- Calling NDTV web service to get weather data
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- Calling NDTV web service to get weather data
+INFO main logg --- application/json; charset=utf-8
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- Calling NDTV web service to get weather data
+INFO main logg --- application/json; charset=utf-8
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- Calling NDTV web service to get weather data
+INFO main logg --- application/json; charset=utf-8
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- Calling NDTV web service to get weather data
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- Calling NDTV web service to get weather data
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- Calling NDTV web service to get weather data
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Scenario name is To check if weather data is present for the provided input city
+INFO main logg --- Launching Website...
+INFO main logg --- Temperature: 29°C
+INFO main logg --- City: Pune
+INFO main logg --- Weather Condition is Humid
+INFO main logg --- Humidity: 69
+INFO main logg --- Wind:  2.42 
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Ending Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Closing Browser..
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Scenario name is To check if weather data is present for the provided input city
+INFO main logg --- Launching Website...
+INFO main logg --- Temperature: 30°C
+INFO main logg --- City: Nagpur
+INFO main logg --- Weather Condition is Clear
+INFO main logg --- Humidity: 61
+INFO main logg --- Wind:  2.74 
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Ending Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Closing Browser..
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Scenario name is To check if weather data is present for the provided input city
+INFO main logg --- Launching Website...
+INFO main logg --- Temperature: 30°C
+INFO main logg --- City: Raipur
+INFO main logg --- Weather Condition is Humid and Partly Cloudy
+INFO main logg --- Humidity: 69
+INFO main logg --- Wind:  2.94 
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Ending Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Closing Browser..
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Scenario name is To check if get error message upon entering wrong city name
+INFO main logg --- Launching Website...
+INFO main logg --- No Record Found, Try again.
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Ending Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Closing Browser..
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Scenario name is To check if get error message upon entering wrong city name
+INFO main logg --- Launching Website...
+INFO main logg --- No Record Found, Try again.
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Ending Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Closing Browser..
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Scenario name is To check if get error message upon entering wrong city name
+INFO main logg --- Launching Website...
+INFO main logg --- No Record Found, Try again.
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Ending Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Closing Browser..
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Scenario name is Comparing Temperature from UI with Temprature received from Service with provided variance
+INFO main logg --- Launching Website...
+INFO main logg --- Temperature: 29°C
+INFO main logg --- City: Pune
+INFO main logg --- Weather Condition is Humid
+INFO main logg --- Humidity: 69
+INFO main logg --- Wind:  2.42 
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Ending Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Closing Browser..
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Scenario name is Comparing Temperature from UI with Temprature received from Service with provided variance
+INFO main logg --- Launching Website...
+INFO main logg --- Temperature: 30°C
+INFO main logg --- City: Nagpur
+INFO main logg --- Weather Condition is Clear
+INFO main logg --- Humidity: 61
+INFO main logg --- Wind:  2.74 
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Ending Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Closing Browser..
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Scenario name is Comparing Temperature from UI with Temprature received from Service with provided variance
+INFO main logg --- Launching Website...
+INFO main logg --- Temperature: 30°C
+INFO main logg --- City: Raipur
+INFO main logg --- Weather Condition is Humid and Partly Cloudy
+INFO main logg --- Humidity: 69
+INFO main logg --- Wind:  2.94 
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Ending Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Closing Browser..
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Scenario name is Comparing City from UI with City received from Service
+INFO main logg --- Launching Website...
+INFO main logg --- Temperature: 29°C
+INFO main logg --- City: Pune
+INFO main logg --- Weather Condition is Humid
+INFO main logg --- Humidity: 69
+INFO main logg --- Wind:  2.42 
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Ending Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Closing Browser..
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Scenario name is Comparing City from UI with City received from Service
+INFO main logg --- Launching Website...
+INFO main logg --- Temperature: 30°C
+INFO main logg --- City: Nagpur
+INFO main logg --- Weather Condition is Clear
+INFO main logg --- Humidity: 61
+INFO main logg --- Wind:  2.74 
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Ending Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Closing Browser..
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Scenario name is Comparing City from UI with City received from Service
+INFO main logg --- Launching Website...
+INFO main logg --- Temperature: 30°C
+INFO main logg --- City: Raipur
+INFO main logg --- Weather Condition is Humid and Partly Cloudy
+INFO main logg --- Humidity: 69
+INFO main logg --- Wind:  2.94 
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Ending Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Closing Browser..
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Scenario name is Comparing Humidity from UI with Humidity received from Service with provided variance
+INFO main logg --- Launching Website...
+INFO main logg --- Temperature: 29°C
+INFO main logg --- City: Pune
+INFO main logg --- Weather Condition is Humid
+INFO main logg --- Humidity: 69
+INFO main logg --- Wind:  2.42 
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- Temperature variance between UI and Service more than 10  
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Ending Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Closing Browser..
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Scenario name is Comparing Humidity from UI with Humidity received from Service with provided variance
+INFO main logg --- Launching Website...
+INFO main logg --- Temperature: 30°C
+INFO main logg --- City: Nagpur
+INFO main logg --- Weather Condition is Clear
+INFO main logg --- Humidity: 61
+INFO main logg --- Wind:  2.74 
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Ending Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Closing Browser..
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Scenario name is Comparing Humidity from UI with Humidity received from Service with provided variance
+INFO main logg --- Launching Website...
+INFO main logg --- Temperature: 30°C
+INFO main logg --- City: Raipur
+INFO main logg --- Weather Condition is Humid and Partly Cloudy
+INFO main logg --- Humidity: 69
+INFO main logg --- Wind:  2.94 
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Ending Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Closing Browser..
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Scenario name is Comparing Weather condition from UI with Weather condition received from Service
+INFO main logg --- Launching Website...
+INFO main logg --- Temperature: 29°C
+INFO main logg --- City: Pune
+INFO main logg --- Weather Condition is Humid
+INFO main logg --- Humidity: 69
+INFO main logg --- Wind:  2.42 
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- Weather condition is not matching Expected is [CLOUDS]  Actual is Humid 
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Ending Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Closing Browser..
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Scenario name is Comparing Weather condition from UI with Weather condition received from Service
+INFO main logg --- Launching Website...
+INFO main logg --- Temperature: 32°C
+INFO main logg --- City: Ajmer
+INFO main logg --- Weather Condition is Clear
+INFO main logg --- Humidity: 46
+INFO main logg --- Wind:  5.35 
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Ending Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Closing Browser..
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Scenario name is Comparing Wind Speed from UI with Humidity received from Service with provided variance
+INFO main logg --- Launching Website...
+INFO main logg --- Temperature: 29°C
+INFO main logg --- City: Pune
+INFO main logg --- Weather Condition is Humid
+INFO main logg --- Humidity: 69
+INFO main logg --- Wind:  2.42 
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Ending Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Closing Browser..
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Scenario name is Comparing Wind Speed from UI with Humidity received from Service with provided variance
+INFO main logg --- Launching Website...
+INFO main logg --- Temperature: 30°C
+INFO main logg --- City: Nagpur
+INFO main logg --- Weather Condition is Clear
+INFO main logg --- Humidity: 61
+INFO main logg --- Wind:  2.74 
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Ending Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Closing Browser..
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Scenario name is Comparing Wind Speed from UI with Humidity received from Service with provided variance
+INFO main logg --- Launching Website...
+INFO main logg --- Temperature: 30°C
+INFO main logg --- City: Raipur
+INFO main logg --- Weather Condition is Humid and Partly Cloudy
+INFO main logg --- Humidity: 69
+INFO main logg --- Wind:  2.94 
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Ending Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Closing Browser..
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- Calling NDTV web service to get weather data
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- Calling NDTV web service to get weather data
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- Calling NDTV web service to get weather data
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- Calling NDTV web service to get weather data
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- Calling NDTV web service to get weather data
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- Calling NDTV web service to get weather data
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- Calling NDTV web service to get weather data
+INFO main logg --- application/json; charset=utf-8
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- Calling NDTV web service to get weather data
+INFO main logg --- application/json; charset=utf-8
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- Calling NDTV web service to get weather data
+INFO main logg --- application/json; charset=utf-8
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- Calling NDTV web service to get weather data
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- Calling NDTV web service to get weather data
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- Calling NDTV web service to get weather data
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Scenario name is To check if weather data is present for the provided input city
+INFO main logg --- Launching Website...
+INFO main logg --- Temperature: 29°C
+INFO main logg --- City: Pune
+INFO main logg --- Weather Condition is Humid
+INFO main logg --- Humidity: 69
+INFO main logg --- Wind:  2.42 
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Ending Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Closing Browser..
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Scenario name is To check if weather data is present for the provided input city
+INFO main logg --- Launching Website...
+INFO main logg --- Temperature: 30°C
+INFO main logg --- City: Nagpur
+INFO main logg --- Weather Condition is Clear
+INFO main logg --- Humidity: 61
+INFO main logg --- Wind:  2.74 
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Ending Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Closing Browser..
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Scenario name is To check if weather data is present for the provided input city
+INFO main logg --- Launching Website...
+INFO main logg --- Temperature: 30°C
+INFO main logg --- City: Raipur
+INFO main logg --- Weather Condition is Humid and Partly Cloudy
+INFO main logg --- Humidity: 69
+INFO main logg --- Wind:  2.94 
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Ending Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Closing Browser..
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Scenario name is To check if get error message upon entering wrong city name
+INFO main logg --- Launching Website...
+INFO main logg --- No Record Found, Try again.
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Ending Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Closing Browser..
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Scenario name is To check if get error message upon entering wrong city name
+INFO main logg --- Launching Website...
+INFO main logg --- No Record Found, Try again.
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Ending Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Closing Browser..
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Scenario name is To check if get error message upon entering wrong city name
+INFO main logg --- Launching Website...
+INFO main logg --- No Record Found, Try again.
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Ending Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Closing Browser..
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Scenario name is Comparing Temperature from UI with Temprature received from Service with provided variance
+INFO main logg --- Launching Website...
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Scenario name is Comparing Temperature from UI with Temprature received from Service with provided variance
+INFO main logg --- Launching Website...
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Temperature: 32°C
+INFO main logg --- City: Nagpur
+INFO main logg --- Weather Condition is Clear
+INFO main logg --- Humidity: 57
+INFO main logg --- Wind:  2.77 
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Ending Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Closing Browser..
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Scenario name is Comparing Temperature from UI with Temprature received from Service with provided variance
+INFO main logg --- Launching Website...
+INFO main logg --- Temperature: 30°C
+INFO main logg --- City: Pune
+INFO main logg --- Weather Condition is Clear
+INFO main logg --- Humidity: 61
+INFO main logg --- Wind:  2.22 
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Ending Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Closing Browser..
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Scenario name is Comparing Temperature from UI with Temprature received from Service with provided variance
+INFO main logg --- Launching Website...
+INFO main logg --- Temperature: 32°C
+INFO main logg --- City: Nagpur
+INFO main logg --- Weather Condition is Clear
+INFO main logg --- Humidity: 57
+INFO main logg --- Wind:  2.77 
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Ending Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Closing Browser..
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Scenario name is Comparing Temperature from UI with Temprature received from Service with provided variance
+INFO main logg --- Launching Website...
+INFO main logg --- Temperature: 31°C
+INFO main logg --- City: Raipur
+INFO main logg --- Weather Condition is Humid
+INFO main logg --- Humidity: 64
+INFO main logg --- Wind:  2.64 
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Ending Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Closing Browser..
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Scenario name is Comparing City from UI with City received from Service
+INFO main logg --- Launching Website...
+INFO main logg --- Temperature: 30°C
+INFO main logg --- City: Pune
+INFO main logg --- Weather Condition is Clear
+INFO main logg --- Humidity: 61
+INFO main logg --- Wind:  2.22 
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- City Name: Pune
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Ending Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Closing Browser..
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Scenario name is Comparing City from UI with City received from Service
+INFO main logg --- Launching Website...
+INFO main logg --- Temperature: 32°C
+INFO main logg --- City: Nagpur
+INFO main logg --- Weather Condition is Clear
+INFO main logg --- Humidity: 57
+INFO main logg --- Wind:  2.77 
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- City Name: Nagpur
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Ending Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Closing Browser..
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Scenario name is Comparing Temperature from UI with Temprature received from Service with provided variance
+INFO main logg --- Launching Website...
+INFO main logg --- Temperature: 31°C
+INFO main logg --- City: Pune
+INFO main logg --- Weather Condition is Clear
+INFO main logg --- Humidity: 56
+INFO main logg --- Wind:  2.12 
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Ending Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Closing Browser..
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Scenario name is Comparing Temperature from UI with Temprature received from Service with provided variance
+INFO main logg --- Launching Website...
+INFO main logg --- Temperature: 32°C
+INFO main logg --- City: Nagpur
+INFO main logg --- Weather Condition is Clear
+INFO main logg --- Humidity: 54
+INFO main logg --- Wind:  3.07 
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Ending Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Closing Browser..
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Scenario name is Comparing Temperature from UI with Temprature received from Service with provided variance
+INFO main logg --- Launching Website...
+INFO main logg --- Temperature: 31°C
+INFO main logg --- City: Raipur
+INFO main logg --- Weather Condition is Humid
+INFO main logg --- Humidity: 59
+INFO main logg --- Wind:  2.84 
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Ending Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Closing Browser..
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Scenario name is Comparing City from UI with City received from Service
+INFO main logg --- Launching Website...
+INFO main logg --- Temperature: 32°C
+INFO main logg --- City: Nagpur
+INFO main logg --- Weather Condition is Clear
+INFO main logg --- Humidity: 54
+INFO main logg --- Wind:  3.07 
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Scenario name is Comparing Temperature from UI with Temprature received from Service with provided variance
+INFO main logg --- Launching Website...
+INFO main logg --- Temperature: 31°C
+INFO main logg --- City: Pune
+INFO main logg --- Weather Condition is Clear
+INFO main logg --- Humidity: 56
+INFO main logg --- Wind:  2.12 
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Ending Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Closing Browser..
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- Calling NDTV web service to get weather data
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- Calling NDTV web service to get weather data
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- Calling NDTV web service to get weather data
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- Calling NDTV web service to get weather data
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- Calling NDTV web service to get weather data
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- Calling NDTV web service to get weather data
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- Calling NDTV web service to get weather data
+INFO main logg --- application/json; charset=utf-8
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- Calling NDTV web service to get weather data
+INFO main logg --- application/json; charset=utf-8
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- Calling NDTV web service to get weather data
+INFO main logg --- application/json; charset=utf-8
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- Calling NDTV web service to get weather data
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- Calling NDTV web service to get weather data
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- Calling NDTV web service to get weather data
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Scenario name is Comparing Temperature from UI with Temprature received from Service with provided variance
+INFO main logg --- Launching Website...
+INFO main logg --- Temperature: 22°C
+INFO main logg --- City: Pune
+INFO main logg --- Weather Condition is Partly Cloudy
+INFO main logg --- Humidity: 72
+INFO main logg --- Wind:  6.07 
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Ending Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Closing Browser..
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- Calling NDTV web service to get weather data
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Scenario name is To check if weather data is present for the provided input city
+INFO main logg --- Launching Website...
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- Calling NDTV web service to get weather data
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Scenario name is Test
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Ending Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Closing Browser..
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Scenario name is Test
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Ending Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Closing Browser..
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Scenario name is Test
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Ending Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Closing Browser..
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Scenario name is Test
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Ending Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Closing Browser..
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Scenario name is Test
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Ending Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Closing Browser..
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Scenario name is Test
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Ending Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Closing Browser..
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Scenario name is Test
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Ending Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Closing Browser..
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Scenario name is Test
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Ending Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Closing Browser..
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Scenario name is Test
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Ending Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Closing Browser..
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Scenario name is Test
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Ending Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Closing Browser..
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Scenario name is Test
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Ending Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Closing Browser..
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Scenario name is Test
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Ending Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Closing Browser..
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Scenario name is Test
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Ending Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Closing Browser..
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Scenario name is To verify if all prodcut detaila are correct
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Ending Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Closing Browser..
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Scenario name is To verify if all prodcut detaila are correct
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Ending Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Closing Browser..
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- Calling NDTV web service to get weather data
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- Calling NDTV web service to get weather data
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- Calling NDTV web service to get weather data
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- Calling NDTV web service to get weather data
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- Calling NDTV web service to get weather data
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- Calling NDTV web service to get weather data
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Scenario name is To verify if all prodcut detaila are correct
+INFO main logg --- Launching Website...
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Ending Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Closing Browser..
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Scenario name is To verify if all prodcut detaila are correct
+INFO main logg --- Launching Website...
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Ending Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Closing Browser..
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Scenario name is To verify if all prodcut detaila are correct
+INFO main logg --- Launching Website...
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Ending Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Closing Browser..
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Scenario name is To verify if all prodcut detaila are correct
+INFO main logg --- Launching Website...
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Ending Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Closing Browser..
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Scenario name is To verify if all prodcut detaila are correct
+INFO main logg --- Launching Website...
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Ending Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Closing Browser..
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Scenario name is To verify if all prodcut detaila are correct
+INFO main logg --- Launching Website...
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Ending Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Closing Browser..
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Scenario name is To verify if all prodcut detaila are correct
+INFO main logg --- Launching Website...
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Ending Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Closing Browser..
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Scenario name is To verify if all prodcut detaila are correct
+INFO main logg --- Launching Website...
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Ending Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Closing Browser..
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Scenario name is To verify if all prodcut detaila are correct
+INFO main logg --- Launching Website...
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Ending Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Closing Browser..
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Scenario name is To verify if all prodcut detaila are correct
+INFO main logg --- Launching Website...
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Ending Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Closing Browser..
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Scenario name is To verify if all prodcut detaila are correct
+INFO main logg --- Launching Website...
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Ending Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Closing Browser..
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- Calling NDTV web service to get weather data
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- Calling NDTV web service to get weather data
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- Calling NDTV web service to get weather data
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- Calling NDTV web service to get weather data
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- Calling NDTV web service to get weather data
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- Calling NDTV web service to get weather data
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- Calling NDTV web service to get weather data
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- Calling NDTV web service to get weather data
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- Calling web service to register the station

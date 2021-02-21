@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="1" total="1" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="176018" started-at="2021-02-19T15:06:25Z" finished-at="2021-02-19T15:09:21Z">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:testRunner.RunTesterClass@67a20f67]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test name="Default test" duration-ms="176018" started-at="2021-02-19T15:06:25Z" finished-at="2021-02-19T15:09:21Z">
+      <class name="testRunner.RunTesterClass">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:testRunner.RunTesterClass@67a20f67]" name="setUpClass" is-config="true" duration-ms="844" started-at="2021-02-19T20:36:25Z" finished-at="2021-02-19T20:36:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="FAIL" signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:testRunner.RunTesterClass@67a20f67]" name="runScenario" duration-ms="174993" started-at="2021-02-19T20:36:26Z" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-02-19T20:39:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["To verify if all prodcut detaila are correct"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Verify the product details"]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [Product successfully added to your shopping cart] but found []]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [Product successfully added to your shopping cart] but found []
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:513)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:135)
+	at org.testng.Assert.assertEquals(Assert.java:116)
+	at org.testng.Assert.assertEquals(Assert.java:190)
+	at org.testng.Assert.assertEquals(Assert.java:200)
+	at stepDefinitions.ComparatorUIandServiceStepDef.verify_the_message_and_other_product_details_such_as_product_name_color_quantity_and_totoal_price(ComparatorUIandServiceStepDef.java:60)
+	at ✽.verify the message "message" and other product details such as product name,color,quantity and totoal price(file:///C:/Users/Ajinkya/Downloads/WeatherComparator-master/WeatherComparator-master/src/test/java/features/ComparatorUIandService.feature:9)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:testRunner.RunTesterClass@67a20f67]" name="tearDownClass" is-config="true" duration-ms="154" started-at="2021-02-19T20:39:21Z" finished-at="2021-02-19T20:39:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- testRunner.RunTesterClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

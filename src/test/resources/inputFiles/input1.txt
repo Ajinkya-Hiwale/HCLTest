@@ -1,0 +1,7 @@
+{\n" + 
+						"  \"external_id\": \"TEST0010\",\n" + 
+						"  \"name\": \"San Jose\",\n" + 
+						"  \"latitude\": 50.76,\n" + 
+						"  \"longitude\": -122.43,\n" + 
+						"  \"altitude\": 50\n" + 
+						"}

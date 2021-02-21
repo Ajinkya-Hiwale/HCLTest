@@ -1,0 +1,7 @@
+{\n" + 
+						"  \"external_id\": \"FinalTEST0010\",\n" + 
+						"  \"name\": \"New York\",\n" + 
+						"  \"latitude\": 785,\n" + 
+						"  \"longitude\": -22.43,\n" + 
+						"  \"altitude\": 99\n" + 
+						"}

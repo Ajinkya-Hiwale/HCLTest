@@ -1,0 +1,4 @@
+[1003/075731.457:ERROR:file_io_win.cc(180)] CreateFile C:\Users\Ajinkya\AppData\Local\Temp\scoped_dir6996_422444747\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
+[1003/113657.188:ERROR:file_io_win.cc(180)] CreateFile C:\Users\Ajinkya\AppData\Local\Temp\scoped_dir16856_1287580791\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
+[0219/203031.248:ERROR:file_io_win.cc(180)] CreateFile C:\Users\Ajinkya\AppData\Local\Temp\scoped_dir22020_537970110\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
+[0219/211201.129:ERROR:file_io_win.cc(180)] CreateFile C:\Users\Ajinkya\AppData\Local\Temp\scoped_dir29040_508424735\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
